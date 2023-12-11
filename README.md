@@ -1,9 +1,22 @@
+# WhatsApp MD User Bot
+
+A simple WhatsApp User bot.
+
+(KING IBRAHIM-MD)
+
+  (254 BOT)
+
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec1e693dbc02d6b40b0ef.jpg" alt="01" border="0" /></a>
 </p>
 
 
+ (OWNER : IBRAHIM ADAMS)
+ (NUMBER : 0710772666)
+ (REGION : KENYA)
  
 ## Setup
 
