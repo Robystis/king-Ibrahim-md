@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
-    <img </p>alt=Support height="250" src="https://https://telegra.ph/file/ec1e693dbc02d6b40b0ef.jpg"> 
+    <img </p>alt=Support height="250" src="https://https://telegra.ph/file/69551b119a4c50beed3e9.jpg"> 
     </p>
       <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM BLADE ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
