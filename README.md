@@ -1,7 +1,7 @@
 
 align="center">  
   <a href="https://https://telegra.ph/file/69551b119a4c50beed3e9.jpg">
-    <img alt="prabath-md" height="300" src="https://https://telegra.ph/file/69551b119a4c50beed3e9.jpg">
+    <img alt="king Ibrahim md" height="600" src="https://https://telegra.ph/file/69551b119a4c50beed3e9.jpg">
     
  
 ## Setup
