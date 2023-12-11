@@ -1,10 +1,3 @@
-# WhatsApp MD User Bot
-
-A simple WhatsApp User bot.
-
-
-
-   <img alt=Support height="250" src="https://https://telegra.ph/file/ec1e693dbc02d6b40b0ef.jpg">
 
 
  
