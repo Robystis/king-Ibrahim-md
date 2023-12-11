@@ -1,7 +1,7 @@
 # WhatsApp MD User Bot
 
 A simple WhatsApp User bot.
-
+ <img alt=Support height="250" src="https://https://telegra.ph/file/ec1e693dbc02d6b40b0ef.jpg">
 ## Setup
 
 1. Deploy on Heroku
@@ -20,63 +20,6 @@ A simple WhatsApp User bot.
    - [DEPLOY](https://qr-hazel-alpha.vercel.app/koyeb) now.
    - Enter [Environment Variables](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables).
    - Enter a name and click "Create Service."
-
-3. Deploy on VPS or PC (Example here as in Ubuntu)
-
-   - Install with script
-
-         wget -N -O levanter.sh http://bit.ly/43JqREw && chmod +x levanter.sh && ./levanter.sh
-
-   - Install without a script
-       - Install git, ffmpeg, and curl:
-
-             sudo apt -y update && sudo apt -y upgrade
-             sudo apt -y install git ffmpeg curl
-
-       - Install nodejs:
-
-             sudo apt -y remove nodejs
-             curl -fsSl https://deb.nodesource.com/setup_lts.x | sudo bash - && sudo apt -y install nodejs
-
-       - Install yarn:
-
-             npm install -g yarn
-
-       - Install pm2:
-
-             sudo yarn global add pm2
-
-       - Clone the repository and install packages:
-
-             git clone https://github.com/lyfe00011/whatsapp-bot-md botName
-              cd botName
-               yarn install --network-concurrency 1
-
-       - Enter Environment Variables: Copy-paste the lines below (remove SESSION_ID if not needed):
-
-             echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
-             PREFIX = .
-             STICKER_PACKNAME = LyFE
-             ALWAYS_ONLINE = false
-             RMBG_KEY = null
-             LANGUAG = en
-             WARN_LIMIT = 3
-             FORCE_LOGOUT = false
-             BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
-             MAX_UPLOAD = 200
-             REJECT_CALL = false
-             SUDO = 989876543210
-             TZ = Asia/Kolkata
-             VPS = true
-             AUTO_STATUS_VIEW = true
-             SEND_READ = true
-             AJOIN = true
-             DISABLE_START_MESSAGE = false
-             PERSONAL_MESSAGE = null" > config.env
-
-    - [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables)
-
-    - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
 
     - Start and stop the bot:
         - To start the bot: `pm2 start . --name botName --attach --time`
