@@ -1,11 +1,11 @@
 {
-	"name": "levanter",
-	"version": "4.6.1",
+	"name": "king Ibrahim",
+	"version": "7.7.2",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "pm2 start . --attach --namespace levanter --name levanter",
-		"stop": "pm2 stop levanter"
+		"start": "pm2 start . --attach --namespace king Ibrahim --name king Ibrahim",
+		"stop": "pm2 stop king Ibrahim"
 	},
 	"author": "",
 	"license": "ISC",
