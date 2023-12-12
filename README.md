@@ -1,5 +1,5 @@
-USE THIS AS LINK PASS : COPY IT 
-      👉👉👉
+USE THIS AS LINk PASS : COPY IT 
+      👇👇👇
 (https://github.com/cyberpabuza/whatsapp-bot-md)
 
 
