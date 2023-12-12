@@ -1,5 +1,5 @@
 {
-	"name": "levanter@4.4.1",
+	"name": "king Ibrahim@4.4.1",
 	"description": "",
 	"keywords": [
 		"noedjs"
@@ -35,7 +35,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": false,
-			"value": "❤️,LyFE"
+			"value": "❤️,king"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered.",
